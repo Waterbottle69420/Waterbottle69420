@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Waterbottle69420
+- 👋 Hi, I’m Ishank
 - 👀 I’m interested in web dev,app dev and cloud computing
 - 🌱 I’m currently learning bootstrap and javascript
 - 
